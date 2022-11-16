@@ -1,4 +1,4 @@
-# Mobile-tea-sales-system
+# 基于大数据的移动端茶叶销售系统
 图片展示
 ![image](https://github.com/2631689189/Mobile-tea-sales-system/blob/main/images/tupian.png)
 ![image](https://github.com/2631689189/Mobile-tea-sales-system/blob/main/images/图片1.png)
